@@ -42,7 +42,7 @@ The bot can support several uses, with each users information stored and notific
 
 The demonstartion was done in a sandbox environment. 
 
-**The error handling feature is present. but not demonstrated in the above videos.
+**The error handling feature is present. but not demonstrated in the above videos.**
 
 ### Privacy policy
 
